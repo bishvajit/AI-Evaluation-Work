@@ -8,7 +8,7 @@ This repository showcases my hands-on experience in evaluating AI model outputs 
 
 ## Portfolio Overview
 
-- **12 Prompt-Response Examples**  
+- **10 Prompt-Response Examples**  
   Each example includes:
   - Model outputs comparison
   - Logical ranking of responses
