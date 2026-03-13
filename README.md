@@ -28,20 +28,3 @@ This repository showcases my hands-on experience in evaluating AI model outputs 
 
 ---
 
-## How to Use This Repository
-
-1. Review each prompt in the `prompts/` folder (or the PDF file).  
-2. See the model outputs and rankings in the `responses/` folder.  
-3. Read the justification to understand the evaluation reasoning.
-
----
-
-## Notes for Recruiters
-
-- My portfolio is **focused on text RLHF**, which is sufficient for fresher and entry-level AI data roles.  
-- I am confident in adapting to multimodal annotation tasks with proper guidelines.
-
----
-
-**GitHub Profile:** [Your GitHub Link Here]  
-**Contact:** [Your Email / LinkedIn Here]
